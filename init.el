@@ -1,24 +1,19 @@
-;; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-;; init.el --- Personal configuration -*- lexical-binding: t; -*-
+;; ________________________________________________________________
+;; GNU Emacs / 9000
+;; Copyright (C) 2026 - Erik Hayes
 ;;
-;; Copyright (C) 2026 hayes
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 3 of the License, or
+;; (at your option) any later version.
 ;;
-;; Author: hayes <hayes@fedora>
-;; Maintainer: hayes <hayes@fedora>
-;; Created: April 01, 2026
-;; Modified: April 01, 2026
-;; Version: 0.0.1
-;; Keywords:
-;; Homepage: https://github.com/hayes/vitruvian-emacs/init.el
-;; Package-Requires: ((emacs "24.3"))
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
 ;;
-;; This file is not part of GNU Emacs.
-;;
-;;; Commentary:
-;; This is my personal configuration
-;;
-;; ////////////////////////////////////////////////////////////////
+;; You should have received a copy of the GNU General Public License
+;; along with this program. If not, see <http://www.gnu.org/licenses/>.
+;; ________________________________________________________________
 
 (require '9000-defaults)
-
-;;; init.el ends here
